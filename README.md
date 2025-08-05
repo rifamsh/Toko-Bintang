@@ -16,18 +16,16 @@ Teknologi yang Digunakan
 Aplikasi ini dibangun menggunakan teknologi-teknologi berikut:
 
 Frontend:
-
-[Sebutkan framework atau library JS yang Anda gunakan, misal: React.js, Vue.js]
-
-[Sebutkan styling library yang Anda gunakan, misal: Tailwind CSS, Bootstrap]
+react.js
+Tailwind
 
 Backend:
 
-[Sebutkan bahasa pemrograman atau framework, misal: Node.js dengan Express, PHP dengan Laravel]
+node.js prisma yarn 
 
 Database:
 
-[Sebutkan sistem manajemen database, misal: MySQL, PostgreSQL, MongoDB]
+mysql
 
 Cara Memulai (Instalasi dan Konfigurasi)
 Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi secara lokal:
