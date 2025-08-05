@@ -21,7 +21,7 @@ Tailwind
 
 Backend:
 
-node.js prisma yarn 
+node.js prisma yarn
 
 Database:
 
