@@ -1,4 +1,4 @@
-import joi, { equal } from 'joi';
+import joi from 'joi';
 
 export const userValidation = (payload) => {
     const schema = joi.object({
