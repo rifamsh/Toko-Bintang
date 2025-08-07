@@ -1,5 +1,5 @@
 ### create user 
-POST {{ BASE_URL }}/user
+POST {{ BASE_URL }}/users
 Content-Type: application/json
 {
     "name": "Toko Bintang",
@@ -17,13 +17,11 @@ Content-Type: application/json
     "password": "1234"
 }
 
-{{ 
-$global.accessToken = JSON.parse(responseBody).accessToken;
-$global.refreshToken = JSON.parse(responseBody).refreshTokenToken;
- }}
+> {% client.global.set("accessToken", response.body.accessToken) %}
+> {% client.global.set("refreshToken", response.body.refreshToken) %}
 
  ### update user
- PUT {{ BASE_URL }}/users/1
+ PUT {{ BASE_URL }}/users/7
 Content-Type: application/json
 Authorization: Bearer {{ $global.accessToken}}
 {
