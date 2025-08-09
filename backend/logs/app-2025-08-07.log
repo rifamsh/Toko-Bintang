@@ -1,0 +1,154 @@
+LOGGER 2025-08-07 02:26:31.679 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 02:29:54.357 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 02:36:28.101 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:04:56.370 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:06:15.549 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:09:25.830 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:09:52.357 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:10:16.104 AM error: uncaughtException: Missing parameter name at 1: https://git.new/pathToRegexpError
+TypeError: Missing parameter name at 1: https://git.new/pathToRegexpError
+    at name (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:73:19)
+    at lexer (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:91:27)
+    at lexer.next (<anonymous>)
+    at Iter.peek (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:106:38)
+    at Iter.tryConsume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:112:28)
+    at Iter.text (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:128:30)
+    at consume (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:152:29)
+    at parse (D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:183:20)
+    at D:\coding\POS_APP\backend\node_modules\path-to-regexp\dist\index.js:294:74
+    at Array.map (<anonymous>)
+LOGGER 2025-08-07 03:13:56.314 AM error: controllers/user.controller.js:createUser - 
+Invalid `prisma.user.create()` invocation:
+
+
+Can't reach database server at `localhost:3306`
+
+Please make sure your database server is running at `localhost:3306`.
+LOGGER 2025-08-07 03:14:21.905 AM error: controllers/user.controller.js:createUser - 
+Invalid `prisma.user.create()` invocation:
+
+
+Can't reach database server at `localhost:3306`
+
+Please make sure your database server is running at `localhost:3306`.
+LOGGER 2025-08-07 04:24:12.286 AM error: controllers/user.controller.js:loginUser - 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    userName: "TokoBintang",
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   name?: StringFilter | String,
+?   role?: StringFilter | String,
+?   Carts?: CartsListRelationFilter,
+?   Orders?: OrdersListRelationFilter,
+?   Orderreturn?: OrderreturnListRelationFilter,
+?   Purchase?: PurchaseListRelationFilter
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+LOGGER 2025-08-07 04:27:56.777 AM error: controllers/user.controller.js:loginUser - 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    userName: "TokoBintang",
+?   id?: Int,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   password?: StringFilter | String,
+?   name?: StringFilter | String,
+?   role?: StringFilter | String,
+?   Carts?: CartsListRelationFilter,
+?   Orders?: OrdersListRelationFilter,
+?   Orderreturn?: OrderreturnListRelationFilter,
+?   Purchase?: PurchaseListRelationFilter
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` arguments. Available options are marked with ?.
+LOGGER 2025-08-07 04:43:01.741 AM error: controllers/user.controller.js:userUpdate - number is not defined
+LOGGER 2025-08-07 04:49:59.191 AM error: controllers/user.controller.js:userUpdate - number is not defined
